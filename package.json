@@ -1,0 +1,24 @@
+{
+  "name": "webpack-js-clear-comments-plugin",
+  "version": "1.0.0",
+  "description": "webpack js注释清除插件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kongbaiy/webpack-js-clear-comments-plugin.git"
+  },
+  "keywords": [
+    "comments",
+    "plugin",
+    "comments"
+  ],
+  "author": "konbai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kongbaiy/webpack-js-clear-comments-plugin/issues"
+  },
+  "homepage": "https://github.com/kongbaiy/webpack-js-clear-comments-plugin#readme"
+}
