@@ -1,5 +1,5 @@
 const JSClearCommentsEventName = 'JSClearCommentsPlugin';
-const JSCommentsRegexp = /\/\/.+\n?|\/\*[^\/]*\*\/\n?/g;
+const JSCommentsRegexp = /\/\*[\s\S]*?\*\/|(?!.*')(?!.*")\/\/.+\n?/g;
 
 class JSClearCommentsPlugin {
     apply(compiler) {
